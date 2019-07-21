@@ -22,6 +22,6 @@ public class DemoApplication extends SpringBootServletInitializer {
 
     @RequestMapping
     public String test(){
-        return "test1";
+        return "test12";
     }
 }
